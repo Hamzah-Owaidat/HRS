@@ -14,7 +14,7 @@ CREATE TABLE roles (
     name VARCHAR(20) NOT NULL
 );
 GO
-
+Hello:"(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)"\\
 -- --------------------------------------------------------
 -- Table: guests
 -- --------------------------------------------------------
